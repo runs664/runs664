@@ -19,7 +19,7 @@ I want to contribute to open-source projects and believe in the power of communi
 
 ## 📫 How to Reach Me
 - **GitHub:** [@runsdev](https://github.com/runsdev)
-- **LinkedIn:** [Harun Harun](https://linkedin.com/in/runs664)
+- **LinkedIn:** [Harun Harun](https://linkedin.com/in/runsha)
 - **Email:** [harunsixsixfour@gmail.com](mailto:harunsixsixfour@gmail.com)
 
 ## 📊 GitHub Stats:
